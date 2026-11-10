@@ -28,3 +28,13 @@ yarn-error.log*
 # local env files
 .env*.local
 
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+src/app/(components)
+
+# raw screenshot dump — source images; optimized versions live in each project dir
